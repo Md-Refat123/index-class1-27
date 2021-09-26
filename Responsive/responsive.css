@@ -1,0 +1,132 @@
+@media(max-width: 730px)
+    {
+    .menu-section .lfwf {
+        float: none;
+        background-color: #22C3A3;
+        text-align: center;
+    }
+
+
+    .menu ul {
+        float: none;
+        text-align: center;
+        padding: 2px 0 25px 0;
+    }
+
+    .img-section h1 {
+        font-size: 50px;
+    }
+
+    .img-section h4 {
+        font-size: 19px;
+        margin-bottom: 42px;
+    }
+
+    .about-section-1 img {
+        height: auto;
+        width: 792px;
+        float: none;
+        margin: auto;
+        text-align: center;
+        display: block;
+    }
+
+    .about-section-1 h2 {
+        font-weight: 500;
+        padding: 10px 0 10px 0;
+        font-size: 41px;
+        text-align: center;
+    }
+
+    .about-section-1 p {
+        color: #000000c7;
+        line-height: 30px;
+        margin: 0 128px;
+        text-align: center;
+        font-size: 20px;
+    }
+
+    .service-section h1 {
+        font-size: 38px;
+    }
+
+    .service-section p {
+        color: #000000bf;
+        font-size: 17px;
+    }
+
+    .about-section p {
+        color: #000000bd;
+        Font-family: Open Sans, sans-serif;
+    }
+
+    .about-section h1 {
+        color: #000000a3;
+        padding: 30px;
+        font-size: 39px;
+    }
+
+    .contact-1 i {
+        font-size: 30px;
+    }
+
+    .contact-1 h4 {
+        font-size: 22px;
+    }
+
+    .footer-menu i {
+        font-size: 34px;
+        padding: 0 9px;
+    }
+
+    .last-footer footer {
+        color: #ffffff75;
+        Font-family: Open Sans, sans-serif;
+        font-size: 19px;
+    }
+}
+
+@media(max-width:600px){
+    .section-1 {
+        float: none;
+        width: 100%;
+    }
+    .service-section {
+        padding: 81px 0 39px 0;
+    }
+    .section-1 {
+        padding: 83px 0;
+    }
+    .about-section-1 p {
+        font-size: 28px;
+    }
+    .about-section p {
+        font-size: 29px;
+    }
+    .service-section p {
+        font-size: 29px;
+    }
+    .section-1 h2 {
+        font-size: 39px;
+    }
+
+    .contact-1 {
+        float: none;
+        width: 100%;
+        margin-bottom: 60px;
+    }
+    .footer-menu {
+        margin-top: 526px;
+    }
+    .contact-1 i {
+        font-size: 64px;
+    }
+    .contact-1 h4 {
+        font-size: 35px;
+    }
+}
+
+
+@media(max-width: 270px){
+    
+}
